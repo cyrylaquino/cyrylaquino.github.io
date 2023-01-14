@@ -9,7 +9,7 @@
 	width: 100%;
 	background-size: cover;
 	background-position: center;
-	background: url("img/bg1.jpg") no-repeat center fixed;
+	background: url(../img/bg1.jpg) no-repeat center fixed;
 	background-size: cover;
 
 }
@@ -73,7 +73,7 @@ h4{
 	padding: 100px 0px;
 	background-size: cover;
 	background-position: center center;
-	background url("img/bg1.jpg") no-repeat center fixed;
+	background: url(../img/bg1.jpg) no-repeat center fixed;
 	background-size: cover;
 }
 .about img{
